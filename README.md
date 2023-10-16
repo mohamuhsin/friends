@@ -12,7 +12,9 @@ After completing the instructions for each Task below, click the “Save” butt
 **1.** Create a table named friends with three columns:
 
 > id that stores INTEGER
+> 
 > name that stores TEXT
+> 
 > birthday that stores DATE
 
 
