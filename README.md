@@ -20,8 +20,7 @@ birthday that stores DATE
 
 Her birthday is May 30th, 1940.
 
-3.
-Let’s make sure that Ororo has been added to the database:
+**3.** Let’s make sure that Ororo has been added to the database:
 
 SELECT * 
 FROM friends;
