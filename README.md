@@ -60,8 +60,6 @@ Wait, Storm is fictional…
 
 Remove her from friends.
 
-
-Stuck? Get a hint
 9.
 Great job! Let’s take a look at the result one last time:
 
