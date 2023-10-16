@@ -48,8 +48,7 @@ Update her record in friends.
 
 Storm’s email is storm@codecademy.com.
 
-8.
-Wait, Storm is fictional…
+**8.** Wait, Storm is fictional…
 
 Remove her from friends.
 
