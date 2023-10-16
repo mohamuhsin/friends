@@ -8,8 +8,7 @@ After completing the instructions for each Task below, click the “Save” butt
 
 
 # Tasks
-8/9 complete
-Mark the tasks as complete by checking them off
+
 1.
 Create a table named friends with three columns:
 
@@ -17,14 +16,12 @@ id that stores INTEGER
 name that stores TEXT
 birthday that stores DATE
 
-Stuck? Get a hint
+
 2.
 Beneath your current code, add Ororo Munroe to friends.
 
 Her birthday is May 30th, 1940.
 
-
-Stuck? Get a hint
 3.
 Let’s make sure that Ororo has been added to the database:
 
