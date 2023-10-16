@@ -52,8 +52,7 @@ Storm’s email is storm@codecademy.com.
 
 Remove her from friends.
 
-9.
-Great job! Let’s take a look at the result one last time:
+**9.** Great job! Let’s take a look at the result one last time:
 
-SELECT * 
-FROM friends;
+> SELECT * 
+> FROM friends;
