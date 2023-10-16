@@ -38,8 +38,7 @@ Add two of your friends to the table.
 
 Insert an id, name, and birthday for each of them.
 
-5.
-Ororo Munroe just realized that she can control the weather and decided to change her name. Her new name is “Storm”.
+**5.** Ororo Munroe just realized that she can control the weather and decided to change her name. Her new name is “Storm”.
 
 Update her record in friends.
 
