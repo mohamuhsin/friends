@@ -24,8 +24,8 @@ Her birthday is May 30th, 1940.
 
 **3.** Let’s make sure that Ororo has been added to the database:
 
-SELECT * 
-FROM friends;
+> SELECT * 
+> FROM friends;
 
 Check for two things:
 
