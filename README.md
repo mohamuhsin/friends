@@ -42,15 +42,12 @@ Insert an id, name, and birthday for each of them.
 
 Update her record in friends.
 
-6.**Add a new column named email.
+**6.** Add a new column named email.
 
-7.
-Update the email address for everyone in your table.
+**7.** Update the email address for everyone in your table.
 
 Storm’s email is storm@codecademy.com.
 
-
-Stuck? Get a hint
 8.
 Wait, Storm is fictional…
 
