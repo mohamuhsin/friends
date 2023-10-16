@@ -33,7 +33,6 @@ Check for two things:
 Is friends table created?
 Is Ororo Munroe added to it?
 
-Stuck? Get a hint
 4.
 Let’s move on!
 
