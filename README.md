@@ -5,9 +5,9 @@ The instructions provided are a general guideline. Feel free to add more columns
 
 After completing the instructions for each Task below, click the “Save” button to check your progress. If nothing populates in the “Query Results” tab to the right, double-check your work for syntax errors.
 
-If you get stuck during this project or would like to see an experienced developer work through it, click Get Unstuck to see a walkthrough video.
 
-Tasks
+
+# Tasks
 8/9 complete
 Mark the tasks as complete by checking them off
 1.
