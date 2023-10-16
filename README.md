@@ -45,13 +45,9 @@ Ororo Munroe just realized that she can control the weather and decided to chang
 
 Update her record in friends.
 
-
-Stuck? Get a hint
 6.
 Add a new column named email.
 
-
-Stuck? Get a hint
 7.
 Update the email address for everyone in your table.
 
