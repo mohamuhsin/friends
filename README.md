@@ -32,8 +32,7 @@ Check for two things:
 Is friends table created?
 Is Ororo Munroe added to it?
 
-4.
-Let’s move on!
+**4.** Let’s move on!
 
 Add two of your friends to the table.
 
