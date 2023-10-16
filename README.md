@@ -9,16 +9,14 @@ After completing the instructions for each Task below, click the “Save” butt
 
 # Tasks
 
-1.
-Create a table named friends with three columns:
+**1.** Create a table named friends with three columns:
 
 id that stores INTEGER
 name that stores TEXT
 birthday that stores DATE
 
 
-2.
-Beneath your current code, add Ororo Munroe to friends.
+**2.** Beneath your current code, add Ororo Munroe to friends.
 
 Her birthday is May 30th, 1940.
 
